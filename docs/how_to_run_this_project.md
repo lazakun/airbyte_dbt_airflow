@@ -1,5 +1,7 @@
 - Create a sample (akila) database and insert sample data using attached sql script
+
 sql-server-sakila-insert-data.sql
+
 sql-server-sakila-schema.sql
 
 - Install and configure (source and destination) Airbyte on Windows using the link below:
